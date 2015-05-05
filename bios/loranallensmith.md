@@ -1,3 +1,5 @@
 ### Loran Allen Smith
 
-**loranallensmith@github.com**
+Email Address: **loranallensmith@github.com**
+
+Favorite Color: **Green**
