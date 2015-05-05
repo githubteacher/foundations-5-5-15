@@ -1,3 +1,3 @@
-### Allen Smith
+### Loran Allen Smith
 
 **loranallensmith@github.com**
