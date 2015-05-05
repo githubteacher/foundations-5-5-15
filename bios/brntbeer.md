@@ -1,3 +1,5 @@
 # Brent Beer
 
-**brentbeer@github.com**
+**Email:** brentbeer@github.com
+
+**Favorite Color:** Blue
